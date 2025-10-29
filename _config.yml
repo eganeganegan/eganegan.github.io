@@ -1,4 +1,6 @@
 name: eganegan.github.io
-theme: minima
 title: Egan homepage
 description: i dont even know lwk
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
